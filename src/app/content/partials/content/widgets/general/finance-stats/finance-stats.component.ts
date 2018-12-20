@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
-import {googlemaps} from 'googlemaps';
+import {googlemaps} from 'googlemaps'
 
 @Component({
   selector: 'm-finance-stats',
